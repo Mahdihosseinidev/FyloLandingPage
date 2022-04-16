@@ -18,8 +18,7 @@ A simple web design that has all three modes of desktop, tablet and mobile and i
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://mahdihosseinidev.github.io/FyloLandingPage/)
 
 
 ### Built with
